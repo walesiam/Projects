@@ -1,4 +1,4 @@
-****Customer Segmentation Analysis**
+**Customer Segmentation Analysis**
 This project performs a comprehensive customer segmentation analysis using RFM (Recency, Frequency, Monetary) modeling. The goal is to identify distinct customer groups based on their purchasing behavior, enabling targeted marketing strategies and improved customer relationship management.
 
 **Key Highlights**:
