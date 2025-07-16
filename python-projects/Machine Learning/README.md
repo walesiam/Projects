@@ -19,7 +19,8 @@ stats_xg: Expected goals for each shot.
 shot_outcome: Whether the shot resulted in a goal ("Goal" or "No Goal").
 Advance_xG and Advance_LxG: Advanced expected goal metrics for enhanced analysis.
 
-**Methodology:**
+**Methodology**
+
 **Data Preprocessing**: Loaded the dataset using pandas and inspected its structure with .info() and .describe().
 The dataset was filtered to include only relevant competitions and seasons. Unnecessary columns were dropped and categorical features were cleaned and consolidated. For example, player positions were grouped into broader categories like 'attacker', 'midfielder' and 'defender'
 Filtered data to include only major competitions: Premier League, La Liga, Ligue 1, Champions League, FIFA World Cup, and Women's World Cup.
